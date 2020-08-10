@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608443778843",
+    "firebase_url": "https://l-ve-video-call-chat.firebaseio.com",
+    "project_id": "l-ve-video-call-chat",
+    "storage_bucket": "l-ve-video-call-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608443778843:android:f1994041980a6819c275be",
+        "android_client_info": {
+          "package_name": "com.example.lve_videocallchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608443778843-f80d8l4aefqsf8sfltieorrv9j648fto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lve_videocallchat",
+            "certificate_hash": "856495be37c0faeec27808c936d125bf05b7339a"
+          }
+        },
+        {
+          "client_id": "608443778843-ucdkqhn48kqv1t338geikif3ahvss1bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybfo39_0mw33cy2zp1IS1sJPNz6ihNXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608443778843-ucdkqhn48kqv1t338geikif3ahvss1bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
